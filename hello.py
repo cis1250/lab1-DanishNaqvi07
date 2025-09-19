@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
 
-/*****************************
-
-******************************/
 
 # This is your first Python program!
 # TODO:
